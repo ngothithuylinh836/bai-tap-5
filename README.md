@@ -61,5 +61,16 @@ B. Nội dung Bài tập 05:
    Thống kê các sản phẩm bán chạy.
 
    Thống kê lượng tồn kho.
+  # TẠO DATABASE
+  ![image](https://github.com/user-attachments/assets/764b9b91-5e5e-4b6b-a78c-d9b3f998a065)
+# TẠO CÁC TABLE
+#TẠO BẢNG
+![image](https://github.com/user-attachments/assets/a155e38f-d181-4dbe-b43a-0f9c5f209969)
+
+#PK
+![image](https://github.com/user-attachments/assets/b6589d06-b8f4-46b2-a439-65db23f4431c)
+
+#FK
+#CK
 
   
