@@ -96,4 +96,8 @@ B. Nội dung Bài tập 05:
 
 ![image](https://github.com/user-attachments/assets/76105dde-f3d3-4775-a564-11beaff93e48)
 
+# TẠO BẢNG LIÊN KẾT 
+![image](https://github.com/user-attachments/assets/c7e0034e-aa51-4eb6-a915-6dac47280ce8)
+
+
 
