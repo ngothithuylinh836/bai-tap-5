@@ -27,40 +27,6 @@ B. Nội dung Bài tập 05:
 # A
 #ĐỒ ÁN PT&TKHT : PHÂN TÍCH THIẾT KẾ CỬA HÀNG HOA THÁI NGUYÊN
 1. Mô tả bài toán :
-   Cửa hàng hoa Thái Nguyên là một cửa hàng chuyên cung cấp các loại hoa tươi dùng cho nhiều mục đích như: hoa sinh nhật, hoa cưới, hoa sự kiện, hoa chia buồn,..Hiện nay, hoạt động quản lý tại cửa hàng vẫn được thực hiện thủ công như ghi chép đơn hàng, quản lý khách hàng và hàng tồn kho bằng sổ tay hoặc bảng tính Excel. Điều này gây ra nhiều khó khăn trong việc
-   
- Yêu cầu bài toán :
-- Quản lý sản phẩm (hoa và phụ kiện):
-
-   Thêm, sửa, xóa thông tin hoa và phụ kiện (tên, loại, đơn giá, ngày nhập, hạn sử dụng...).
-
-   Theo dõi số lượng tồn kho.
-
-- Quản lý khách hàng:
-
-   Lưu trữ thông tin khách hàng (họ tên, số điện thoại, địa chỉ, lịch sử mua hàng).
-
-- Quản lý đơn hàng/đặt hoa:
-
-   Tạo đơn hàng mới (chọn sản phẩm, số lượng, ghi chú, ngày giao).
-
-   Ghi nhận thông tin khách hàng, thời gian đặt hàng và giao hàng.
-
-   Cập nhật trạng thái đơn hàng (đang xử lý, đã giao, đã hủy...).
-
-- Quản lý nhà cung cấp:
-
-   Lưu thông tin các nhà cung cấp hoa và phụ kiện.
-
-   Theo dõi các lần nhập hàng từ nhà cung cấp.
-
-- Báo cáo – thống kê:
-
-   Thống kê doanh thu theo ngày, tháng, năm.
-
-   Thống kê các sản phẩm bán chạy.
-
-   Thống kê lượng tồn kho.
   # TẠO DATABASE
   ![image](https://github.com/user-attachments/assets/764b9b91-5e5e-4b6b-a78c-d9b3f998a065)
 # TẠO CÁC TABLE
@@ -73,6 +39,61 @@ B. Nội dung Bài tập 05:
 
 #CK
 
-#TẠO BẢNG NHAN_VIEN
+![image](https://github.com/user-attachments/assets/d9fca847-9888-4321-b231-2e923e7894d0)
+
+# TẠO BẢNG NHAN_VIEN
 #PK
+![image](https://github.com/user-attachments/assets/f0e8b839-0368-47ec-b8ba-05cde4449288)
+
+#CK
+
+![image](https://github.com/user-attachments/assets/ded797c0-a18e-45e7-b4ea-f373d5e13462)
+
+# TẠO BẢNG CHITIETHOADON
+#PK
+![image](https://github.com/user-attachments/assets/ae512807-942b-45f9-8e00-539d5161e334)
+
+#FK
+
+![image](https://github.com/user-attachments/assets/26b8d3d5-b911-4df1-bf6e-917418dcaa71)
+![image](https://github.com/user-attachments/assets/365e3f83-3d0b-4df4-abff-897624567e71)
+
+#CK
+
+![image](https://github.com/user-attachments/assets/245c76d1-e11e-4329-853d-3faca317f050)
+
+# TẠO BẢNG DONHANG
+#PK
+![image](https://github.com/user-attachments/assets/15547254-2512-455a-bfa3-d7360c25df6b)
+
+#FK
+
+![image](https://github.com/user-attachments/assets/8e2ea6dc-8187-40ce-aab7-324ca01a7e74)
+![image](https://github.com/user-attachments/assets/3310907a-4d4b-411a-84dc-8bce7ffd56ec)
+
+#CK
+
+![image](https://github.com/user-attachments/assets/8c05dd26-292b-4830-bc29-5959b129cd4a)
+
+# TẠO BẢNG NHAPKHO
+#PK
+
+![image](https://github.com/user-attachments/assets/482519c3-d043-4769-a675-50f3df592853)
+
+#FK
+
+![image](https://github.com/user-attachments/assets/7f956a51-bc06-4872-806f-aedbc776ce2b)
+
+#CK
+
+![image](https://github.com/user-attachments/assets/e1741a8e-fbf6-45ad-8f38-26152a151f62)
+
+# TẠO BẢNG SANPHAM
+#PK
+![image](https://github.com/user-attachments/assets/2768e8bd-a9fa-489d-a5be-40be007a964d)
+
+#CK
+
+![image](https://github.com/user-attachments/assets/76105dde-f3d3-4775-a564-11beaff93e48)
+
 
