@@ -43,6 +43,7 @@ B. Nội dung Bài tập 05:
 
 # TẠO BẢNG NHAN_VIEN
 #PK
+
 ![image](https://github.com/user-attachments/assets/f0e8b839-0368-47ec-b8ba-05cde4449288)
 
 #CK
@@ -51,6 +52,7 @@ B. Nội dung Bài tập 05:
 
 # TẠO BẢNG CHITIETHOADON
 #PK
+
 ![image](https://github.com/user-attachments/assets/ae512807-942b-45f9-8e00-539d5161e334)
 
 #FK
@@ -64,6 +66,7 @@ B. Nội dung Bài tập 05:
 
 # TẠO BẢNG DONHANG
 #PK
+
 ![image](https://github.com/user-attachments/assets/15547254-2512-455a-bfa3-d7360c25df6b)
 
 #FK
@@ -90,6 +93,7 @@ B. Nội dung Bài tập 05:
 
 # TẠO BẢNG SANPHAM
 #PK
+
 ![image](https://github.com/user-attachments/assets/2768e8bd-a9fa-489d-a5be-40be007a964d)
 
 #CK
@@ -101,9 +105,18 @@ B. Nội dung Bài tập 05:
 B. Nội dung Bài tập 05:
 
 - Tạo csdl cho hệ thống quản lý cửa hàng hoa Thái Nguyên
-- Bổ sung thêm trường phi chuẩn: lệch số tiền
+- Bổ sung thêm trường phi chuẩn: Tổng số tiền lệch
 - Viết trigger cho bảng đơn hàng
-  Bấm vào dấu "+" của bảng chi tiết phiếu xuất và chuột phải vào trigger rồi ấn new trigger
+  Bấm vào dấu "+" của bảng donhang và chuột phải vào trigger rồi ấn new trigger
 
+![image](https://github.com/user-attachments/assets/cfe66526-9690-4489-b504-4d9c8236d14e)
+
+Trigger lệch số tiền
+
+![Screenshot 2025-04-23 103107](https://github.com/user-attachments/assets/4fa12ce4-ba8a-4c02-bdda-b49e3e87f36a)
+
+Kết quả
+
+![Screenshot 2025-04-23 103155](https://github.com/user-attachments/assets/7aaef824-7da7-4a0f-a455-e9385a2634cd)
 
 
