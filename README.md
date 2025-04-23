@@ -98,6 +98,12 @@ B. Nội dung Bài tập 05:
 
 # TẠO BẢNG LIÊN KẾT 
 ![image](https://github.com/user-attachments/assets/c7e0034e-aa51-4eb6-a915-6dac47280ce8)
+B. Nội dung Bài tập 05:
+
+- Tạo csdl cho hệ thống quản lý cửa hàng hoa Thái Nguyên
+- Bổ sung thêm trường phi chuẩn: lệch số tiền
+- Viết trigger cho bảng đơn hàng
+  Bấm vào dấu "+" của bảng chi tiết phiếu xuất và chuột phải vào trigger rồi ấn new trigger
 
 
 
